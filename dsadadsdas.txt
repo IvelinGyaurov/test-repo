@@ -16,11 +16,13 @@ public class Main {
         System.out.println("My name is " + name);
         System.out.println("I am " + age + " years old.");
 
-        int a = 10;
-        int b = 20;
-        int sum = a + b;
+        int a1 = 10;
+        int b1 = 20;
+        int sum1 = a + b;
 
         System.out.println("10 + 20 = " + sum);
+
+	System.out.println("The full sum is " sum1 + sum)
     }
 
 }
