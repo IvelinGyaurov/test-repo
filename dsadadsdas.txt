@@ -1,0 +1,18 @@
+public class Main {
+
+    public static void main(String[] args) {
+
+        String name = "Ivelin";
+        int age = 30;
+
+        System.out.println("Hello, Git!");
+        System.out.println("My name is " + name);
+        System.out.println("I am " + age + " years old.");
+
+        int a = 10;
+        int b = 20;
+        int sum = a + b;
+
+        System.out.println("10 + 20 = " + sum);
+    }
+}
