@@ -23,6 +23,7 @@ public class Main {
         System.out.println("10 + 20 = " + sum);
 
 	System.out.println("The full sum is " sum1 + sum)
+    System.out.println("Hello world")
     }
 
 }
