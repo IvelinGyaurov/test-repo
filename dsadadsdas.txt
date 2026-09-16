@@ -6,6 +6,12 @@ public class Main {
         int age = 30;
         String username = "dzunBg94";
 
+        int a = 40;
+        int b = 80;
+        int sum = a + b;
+
+        System.out.println("The sum is " + sum)
+
         System.out.println("Hello, Git!");
         System.out.println("My name is " + name);
         System.out.println("I am " + age + " years old.");
@@ -17,10 +23,5 @@ public class Main {
         System.out.println("10 + 20 = " + sum);
     }
 
-	// this is comment for test
-
-	// second comment for testing
-
-    // third comment for testing
 }
 
